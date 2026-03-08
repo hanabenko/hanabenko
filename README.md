@@ -1,7 +1,9 @@
-## Hi there 👋
+## Hey there!
 
 
 ![Snake animation](https://github.com/hanabenko/hanabenko/blob/output/github-contribution-grid-snake.svg) 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,firebase,git,vscode,figma)](https://skillicons.dev)
 <!--
 **hanabenko/hanabenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
